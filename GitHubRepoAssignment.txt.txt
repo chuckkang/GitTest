@@ -1,0 +1,5 @@
+1) create folder on github.  
+2) clone down from github
+3) make changes to your document
+4) commit changes
+5) push back to github
